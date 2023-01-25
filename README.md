@@ -17,6 +17,8 @@
 
 > Moreover, I also have a cat whose name is Do which means dollar in English. My mom gave it to him so that he could help us earn money :)))). Besides, I would like to bring him to Canada soon, or else I'm going to miss him so badly.
 
+<img src="img/do.jpeg" alt="devil" width="250"/>
+
 # First Assignment Description
 >First Assignment Cooperation for MMED-1054 by Hari & Mazz
 
