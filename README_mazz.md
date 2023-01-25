@@ -1,12 +1,17 @@
-# First Assignment Uncertainty
+# First Assignment on GitHub!
 
-# Attempting this for the first time!
+> This assignment was done for MMED-1054 by Hari & Mazz
 
-# First Assignment Description
-First Assignment Cooperation for MMED-1054 by Hari & Mazz
 
-# Installation
-Attempts are mandatory
+![My mother](img/maricel.png "Maricel Goles")
+![My brother](img/ferman.png "Ferman Febra")
+![Hey hey! It's me!](marianne.png "Marianne Febra")
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=WapQVWb5nB0
+" target="_blank"><img src="http://img.youtube.com/vi/WapQVWb5nB0/0.jpg" 
+alt="CAT FIGURES OUT MEANING OF LIFE" width="240" height="180" border="10" /></a>
+
+**HELLO WORLD!** This is Mazz, and can you believe I finally understood how this thing works? This is the first time I have ever done something like this in my life, so I am rather proud of myself for finishing this!
 
 # MIT License 
 Copyright 2023 HARI & MAZZ
