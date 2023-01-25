@@ -20,7 +20,7 @@ alt="CAT FIGURES OUT MEANING OF LIFE" width="240" height="180" border="10" /></a
 * Never neglect taking notes in class. Your notes are a snapshot of the prof's thinking as well as yours. You might write down some theories incorrectly the first time, but around the eighth repetition, you should be able to make some sense of it.
 * Be curious not just with what we're currently learning but also with what **YOU** would like to learn.
 * Come to class early and repeat the steps until they're ingrained in your memory.
-* If you know you're lost, ask. You paid to good money to be here. Everybody was a student once.
+* If you know you're lost, ask. You paid good money to be here. Everybody was a student once.
 * Get enough sleep to allow your brain to properly digest the circus it just learned. There's no sense pushing yourself to the point of frustration over the given material. It will take time.
 * Have fun! Play around with the applications (provided it's the school computer, not yours, or else that would be costly) to your heart's content. Make it yours. Don't just cruise along like a gondolier in Venice, submitting the bare minimum. Why not give yourself the chance to experiment?
 * Lastly, don't forget to eat and step away from the computer! Especially when you just feel like banging on the keys (please don't, who knows if they have feelings too) or starting everything all over again. A bit of downtime should energize you to get back into the driver's seat.
