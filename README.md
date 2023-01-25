@@ -7,9 +7,6 @@
 `Below you will find brief descriptions of the two of us. Make sure to check out our own branches for our individual READMEs! God only knows what else you'd find.`
 
 ## About Hari
-> Text goes here!
-
-#hari
 > Attempting this for the first time!
 
 > I'm looking forward to studying in this term and it's such an honor to meet you guys in Canada but not elsewhere. My name is Ha Anh, but you can call me Hari since it's easier to read. I'm 18 years old and come from Vietnam so if you are interested in Vietnamese food, do you want to go eat Pho with me? Then let me introduce a bit about myself.
